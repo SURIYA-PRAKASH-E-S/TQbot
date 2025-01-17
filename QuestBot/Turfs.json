@@ -1,0 +1,90 @@
+[
+    {
+        "Name": "MGR Race Course Stadium",
+        "Location": "Madurai, Tamil Nadu, India",
+        "Facilities": "400m synthetic track, courts for badminton, basketball, cricket, football, tennis, table tennis, volleyball, swimming pool",
+        "Contact": null,
+        "AdditionalInfo": "Seating capacity: 10,000",
+        "ImageURL": "https://picsum.photos/200/300"
+    },
+    {
+        "Name": "Madurai Turf",
+        "Location": "S.E.V. Mahal, Roof Terrace, KK Nagar, Madurai-20",
+        "Facilities": "Multi-sport turf",
+        "Contact": ["9787 644 921", "9092 920 772"],
+        "AdditionalInfo": null,
+        "ImageURL": "https://picsum.photos/200/300"
+    },
+    {
+        "Name": "Game On Madurai",
+        "Location": "Madurai, Tamil Nadu, India",
+        "Facilities": "Multi-sport outdoor turf",
+        "Contact": null,
+        "AdditionalInfo": "Madurai's largest outdoor turf",
+        "ImageURL": "https://picsum.photos/200/300"
+    },
+    {
+        "Name": "Turf 7 Salem",
+        "Location": "Salem, Tamil Nadu, India",
+        "Facilities": "Multi-sport turf",
+        "Contact": null,
+        "AdditionalInfo": "Located in Salem",
+        "ImageURL": "https://picsum.photos/200/300"
+    },
+    {
+        "Name": "GreenField Arena",
+        "Location": "Anna Nagar, Madurai",
+        "Facilities": "Football, cricket, badminton",
+        "Contact": "9955 123 456",
+        "AdditionalInfo": "Offers floodlights for night games",
+        "ImageURL": "https://picsum.photos/200/300"
+    },
+    {
+        "Name": "ProPlay Turf",
+        "Location": "Avaniyapuram, Madurai",
+        "Facilities": "Football, basketball, volleyball",
+        "Contact": "9876 543 210",
+        "AdditionalInfo": "Nearby parking available",
+        "ImageURL": "https://picsum.photos/200/300"
+    },
+    {
+        "Name": "Victory Sports Hub",
+        "Location": "Alagappan Nagar, Madurai",
+        "Facilities": "Football, badminton, tennis",
+        "Contact": null,
+        "AdditionalInfo": "Membership discounts available",
+        "ImageURL": "https://picsum.photos/200/300"
+    },
+    {
+        "Name": "Elite Turf Arena",
+        "Location": "KK Nagar, Madurai",
+        "Facilities": "Cricket, football",
+        "Contact": "9999 888 777",
+        "AdditionalInfo": "High-quality turf",
+        "ImageURL": "https://picsum.photos/200/300"
+    },
+    {
+        "Name": "Sky Sports Ground",
+        "Location": "Mattuthavani, Madurai",
+        "Facilities": "Cricket, volleyball, basketball",
+        "Contact": "9012 345 678",
+        "AdditionalInfo": "Open for bookings",
+        "ImageURL": "https://picsum.photos/200/300"
+    },
+    {
+        "Name": "Champion's Arena",
+        "Location": "Simmakkal, Madurai",
+        "Facilities": "Football, cricket",
+        "Contact": null,
+        "AdditionalInfo": "Weekend tournaments organized",
+        "ImageURL": "https://picsum.photos/200/300"
+    },
+    {
+        "Name": "Ultimate Play Zone",
+        "Location": "Thirunagar, Madurai",
+        "Facilities": "Multi-sport facility",
+        "Contact": "9123 456 789",
+        "AdditionalInfo": "Kid-friendly environment",
+        "ImageURL": "https://picsum.photos/200/300"
+    }
+]

@@ -1,4 +1,6 @@
 TURF BOOKING CHATBOT🏏
+---------------------------------
+
 Backend Setup (Node.js + Express + NLP)
 
 npm install express cors node-nlp compromise
@@ -15,7 +17,9 @@ PapaParse : Fast and powerful CSV parsing library for JavaScript that allows you
 
 ![chatbot] (https://img.icons8.com/3d-fluency/94/chatbot.png)
 
+
 WEB PAGE 
+----------------------------
 
 - Cloudinary API
 - Reactjs

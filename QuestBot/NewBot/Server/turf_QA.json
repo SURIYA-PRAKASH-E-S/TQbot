@@ -1,0 +1,190 @@
+[
+  {
+    "question": "hello",
+    "answer": "Hello! How can I assist you today?"
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I assist you today?"
+  },
+  {
+    "question": "what do you offer",
+    "answer": "I can assist with booking services and general queries."
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Take care!"
+  },
+  {
+    "question": "can you book a Turf for me",
+    "answer": "Absolutely! Let me know the date and time."
+  },
+  {
+    "question": "How do I book a turf?",
+    "answer": "You can book a turf by visiting our booking page on the website or app, selecting the date, time, and type of turf you need, and completing the payment."
+  },
+  {
+    "question": "Is it possible to book a turf for a specific date?",
+    "answer": "Yes, you can choose a specific date when booking. The available time slots for the selected day will be displayed."
+  },
+  {
+    "question": "How can I check availability for a specific turf?",
+    "answer": "You can check availability by selecting the turf type and preferred date on our booking page. The system will show you available time slots."
+  },
+  {
+    "question": "Can I cancel my turf booking?",
+    "answer": "Yes, you can cancel your booking through the 'Manage Booking' section of our website or by contacting our support team. Cancellation fees may apply."
+  },
+  {
+    "question": "Can I book a turf for a specific sport (e.g., soccer)?",
+    "answer": "Yes, we have turf available for various sports such as soccer, cricket, football, and more. Choose the appropriate sport when making the booking."
+  },
+  {
+    "question": "Do I need to pay in advance for booking a turf?",
+    "answer": "Yes, full payment is required at the time of booking to confirm your reservation. We accept multiple payment methods like credit cards and online payments."
+  },
+  {
+    "question": "How do I know if my turf booking is confirmed?",
+    "answer": "You will receive a confirmation email and a booking receipt after your payment is successful. You can also view the details in your booking account."
+  },
+  {
+    "question": "Can I change the time or date of my turf booking?",
+    "answer": "Yes, you can modify your booking, including changing the date and time, through the 'Manage Booking' section on our website or by contacting our support team."
+  },
+  {
+    "question": "Can I book multiple time slots for the same day?",
+    "answer": "Yes, you can book multiple time slots for the same day, but each slot must be available. If the turf is fully booked, you will be notified."
+  },
+  {
+    "question": "What do I do if I see no available slots for my preferred date?",
+    "answer": "If no slots are available for your preferred date, you can choose another date, or you can join the waiting list to be notified if a slot opens up."
+  },
+  {
+    "question": "Can I book a turf for a group event?",
+    "answer": "Yes, you can book a turf for group events like tournaments, corporate events, or parties. Please contact us for special rates and arrangements."
+  },
+  {
+    "question": "How much does it cost to book a turf?",
+    "answer": "The cost depends on the turf type, duration, and time of day. You can view the pricing details on the booking page before confirming your reservation."
+  },
+  {
+    "question": "Are there any discounts for regular bookings?",
+    "answer": "Yes, we offer discounts for frequent users or long-term bookings. Please check our website for any ongoing promotions or contact us for more details."
+  },
+  {
+    "question": "Can I rent equipment for the turf?",
+    "answer": "Yes, you can rent sports equipment like soccer balls, nets, and other gear when booking a turf. Equipment rental options will be displayed during booking."
+  },
+  {
+    "question": "Do you offer lighting for night bookings?",
+    "answer": "Yes, we offer lighting for evening and night bookings. The availability of lighting will be shown when you select the time and date for your turf."
+  },
+  {
+    "question": "Can I bring my own equipment?",
+    "answer": "Yes, you can bring your own sports equipment. However, please make sure it's suitable for the turf and complies with our facility rules."
+  },
+  {
+    "question": "What should I do if I arrive late for my turf booking?",
+    "answer": "If you are running late, please inform us in advance. Your booking will be held for a limited time, but it's best to notify us to avoid losing your slot."
+  },
+  {
+    "question": "Can I book multiple turfs for an event?",
+    "answer": "Yes, you can book multiple turfs for large events or tournaments. Contact our team for help with group bookings and special requirements."
+  },
+  {
+    "question": "Is there a minimum booking duration?",
+    "answer": "Yes, the minimum booking duration is usually 1 hour. However, during peak hours, the minimum duration may be extended. This will be displayed when booking."
+  },
+  {
+    "question": "What if I need to cancel my booking last minute?",
+    "answer": "Cancellations made less than 24 hours before the booking time may incur a penalty. Please check our cancellation policy for more details."
+  },
+  {
+    "question": "How do I book a turf for a regular slot?",
+    "answer": "You can book recurring slots for regular events like training sessions. Use our 'Repeat Booking' feature or contact us to arrange a schedule."
+  },
+  {
+    "question": "Do you provide turf maintenance services?",
+    "answer": "Yes, we ensure the turf is well-maintained and ready for use. If you notice any issues, please report them to our team for quick resolution."
+  },
+  {
+    "question": "Can I book a turf for a children's event?",
+    "answer": "Yes, our turfs can be booked for children’s sports events or parties. We also offer age-appropriate equipment for kids."
+  },
+  {
+    "question": "Are there any age restrictions for turf bookings?",
+    "answer": "There are no specific age restrictions for turf bookings. However, some turfs may be designated for particular age groups depending on the sport."
+  },
+  {
+    "question": "How do I know if the turf is suitable for my event?",
+    "answer": "Each turf has specifications (e.g., sport type, surface material, capacity). You can find this information on our website or contact us for assistance."
+  },
+  {
+    "question": "Can I book a turf without paying immediately?",
+    "answer": "Some booking options may allow you to book and pay later, but to confirm your reservation, full payment is required. Please check the payment options during booking."
+  },
+  {
+    "question": "How far in advance can I book a turf?",
+    "answer": "You can typically book a turf up to 30 days in advance. Some locations may allow longer advance bookings. Check the booking system for specific limits."
+  },
+  {
+    "question": "Can I book the turf for an event on a public holiday?",
+    "answer": "Yes, you can book the turf for public holidays. However, availability might be limited, so it's best to book in advance for these dates."
+  },
+  {
+    "question": "How can I check my turf booking details?",
+    "answer": "You can check your booking details by logging into your account on our website or app. Go to 'My Bookings' or 'Booking History' to view the information."
+  },
+  {
+    "question": "I received a booking confirmation. What does it mean?",
+    "answer": "A booking confirmation means your reservation is successful. You will receive a confirmation email with all the booking details, including time and turf type."
+  },
+  {
+    "question": "Can I check my booking status without an account?",
+    "answer": "Yes, you can check your booking status by using the booking reference number provided in your confirmation email, without needing to create an account."
+  },
+  {
+    "question": "How do I select the time for my turf booking?",
+    "answer": "During the booking process, you can choose your preferred time slot based on availability. The system will show you available times for the selected date."
+  },
+  {
+    "question": "Is there a limit to how many hours I can book the turf?",
+    "answer": "There may be a maximum number of hours you can book based on the turf’s availability. You can check available booking hours during the reservation process."
+  },
+  {
+    "question": "Can I change the time slot after confirming my booking?",
+    "answer": "Yes, you can change the time slot, provided the new time is available. You can modify your booking through the 'Manage Booking' option or contact support."
+  },
+  {
+    "question": "What if I don't receive a booking confirmation email?",
+    "answer": "If you don’t receive a confirmation email, please check your spam folder. If it’s not there, contact our support team with your booking details."
+  },
+  {
+    "question": "What does 'Pending' status mean for my booking?",
+    "answer": "'Pending' means your booking is not yet confirmed due to pending payment or some other requirement. Complete the payment or check the reason for pending status."
+  },
+  {
+    "question": "How do I know if my payment went through?",
+    "answer": "After completing your payment, you will receive a payment receipt or confirmation on your screen. You will also get a confirmation email."
+  },
+  {
+    "question": "Why is my payment showing as unsuccessful?",
+    "answer": "If your payment is unsuccessful, please check if your payment method has sufficient funds or if there was a connection issue. You can try again or contact support for assistance."
+  },
+  {
+    "question": "How can I modify my booking if I've already paid?",
+    "answer": "If you have already paid, you can modify your booking by going to the 'Manage Booking' section, or contact support to assist you with the changes."
+  },
+  {
+    "question": "How can I request an invoice for my turf booking?",
+    "answer": "You can request an invoice by contacting our customer service or by downloading it from the 'My Bookings' section after completing the payment."
+  },
+  {
+    "question": "Can I book a turf using a promo code or voucher?",
+    "answer": "Yes, if you have a promo code or voucher, you can enter it during the payment process to apply the discount."
+  },
+  {
+    "question": "show available turfs",
+    "answer": "Type'AvailT' to display details!! "
+  }
+]
